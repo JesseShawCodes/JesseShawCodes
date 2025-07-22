@@ -18,6 +18,7 @@ https://dadgad.netlify.app/
 (Please substitute YOUR_GITHUB_USERNAME with the precise GitHub identifier to ensure accurate rendering of statistical data.)
 
 🤝 Professional Affiliations
+
 [LinkedIn](https://www.linkedin.com/in/itsjesseshaw/)
 
 [Personal Website/Portfolio](https://jesse-shaw.netlify.app/)
