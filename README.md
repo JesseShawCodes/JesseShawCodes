@@ -14,8 +14,6 @@ A march madness style bracket generator for musicians.
 
 https://dadgad.netlify.app/
 
-📊 GitHub Performance Metrics
-(Please substitute YOUR_GITHUB_USERNAME with the precise GitHub identifier to ensure accurate rendering of statistical data.)
 
 🤝 Professional Affiliations
 
